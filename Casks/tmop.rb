@@ -1,6 +1,6 @@
 cask "tmop" do
-  version "0.14.0"
-  sha256 "93e307fb87f14374560be5335d6ef62bb2c906c0ef8f2234283d4bc1150aab50"
+  version "0.14.1"
+  sha256 "d15a44f2b7ae33be6d0b665b4551cae383f737b448def06514c2ca2d52c6ce7a"
 
   url "https://github.com/tekikaito/tmop/releases/download/v#{version}/TMOP-v#{version}-macos-universal.zip"
   name "TMOP"
